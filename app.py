@@ -5,7 +5,7 @@ from navigation.show_dashboard import show_Dashboard
 from navigation.home import show_home
 # from test import test
 
-
+# dummy comment
 st.set_page_config(page_title="Student Management system",page_icon='🎓')
 
 # Set default page
